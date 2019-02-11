@@ -8,6 +8,7 @@ sudo apt-get install minizip
 
 ## Download driver compiled 
 ```cd /home/pi```
+
 ** Version name will vary, replace with the one you downloaded **
 ```
 wget https://github.com/audiophonics/I-Sabre_9038Q2M_Compiled/raw/master/I-Sabre_9038Q2M_4.14.84.zip
